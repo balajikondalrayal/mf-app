@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.header {
+    @apply bg-red-500 text-white text-3xl px-4
+}

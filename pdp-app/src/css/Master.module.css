@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+    .master-content-layout {
+        @apply px-4
+    }
+}
